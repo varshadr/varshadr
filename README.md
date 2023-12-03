@@ -22,7 +22,6 @@
 
 ## Connect with me
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/varshadr1234)
-[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/varshaadr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varsha-dr-8a1700228/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode)](https://hashnode.com/@varshadr)
 [![Dev.to](https://img.shields.io/badge/Dev.to-blue?style=for-the-badge&logo=devto)](https://dev.to/varshadr)
